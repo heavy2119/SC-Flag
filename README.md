@@ -18,10 +18,8 @@ This project was created to provide a reliable and responsive hardware flag syst
 
 ## 🎥 Video
 
-[![SimHub Flag Video](images/demo_thumbnail.png)](https://github.com/user-attachments/assets/7d14d26c-3a42-4807-9c75-b652e139227d)
-https://github.com/user-attachments/assets/7d14d26c-3a42-4807-9c75-b652e139227d
-https://github.com/user-attachments/assets/4a669d2a-2675-4dd0-b2b6-9bd12baf4b18
-https://github.com/user-attachments/assets/e2a3c3b5-973f-4d26-be92-bc1587555317
+[![SimHub Flag Video](Image/199.png)](https://github.com/user-attachments/assets/7d14d26c-3a42-4807-9c75-b652e139227d)
+[![SimHub Flag Video](Image/211.png)](https://github.com/user-attachments/assets/e2a3c3b5-973f-4d26-be92-bc1587555317)
 
 ---
 
