@@ -50,7 +50,7 @@ This project was created to provide a reliable and responsive hardware flag syst
 
 # Simhub Arduino Setting
 <p align="left">
-<img src="Image/17.png" width="700">
+<img src="Image/18.png" width="700">
 </p>
 
  * 8 LED Bar *
