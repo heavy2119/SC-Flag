@@ -45,6 +45,8 @@ This project was created to provide a reliable and responsive hardware flag syst
 | Arduino Nano   | 1 |  [Buy](https://smartstore.naver.com/misoparts/products/5779944205)| 
 | 8X8 LED Matrix    | 1 |  [Buy](https://smartstore.naver.com/misoparts/products/13199208576)| 
 | 8 LED Bar    | 1 |  [Buy](https://smartstore.naver.com/misoparts/products/9434328063)| 
+| 3T Smoke Acrylic    | 1 |  [Buy](https://smartstore.naver.com/me41)| 3D Print 폴더내 도면가지고 의뢰 하세요. 개당 1400원 정도입니다.
+
 
 # 3D Print
 
