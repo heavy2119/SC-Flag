@@ -11,11 +11,8 @@ This project was created to provide a reliable and responsive hardware flag syst
 
 
 <p align="left">
-<img src="image/3.jpg" width="900" >
-</p>
-
-<p align="left">
-<img src="image/4.jpg" width="900" >
+<img src="Image/3.png" width="373" > 
+<img src="Image/4.jpg" width="320" >
 </p>
 
 ---
@@ -25,8 +22,8 @@ This project was created to provide a reliable and responsive hardware flag syst
 ## Main Components
 
 <p align="left">
-<img src="image/3.jpg" width="320" >
-<img src="image/4.png" width="380">
+<img src="Image/2.jpg" width="700" >
+<img src="Image/4.png" width="380">
 </p>
 
 | Component    | Model        |
