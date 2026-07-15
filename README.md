@@ -22,17 +22,17 @@ This project was created to provide a reliable and responsive hardware flag syst
 ## Main Components
 
 <p align="left">
-<img src="Image/2.jpg" width="300" >
-<img src="Image/14.png" width="700">
+<img src="Image/2.jpg" width="250" >
+<img src="Image/14.png" width="600">
 </p>
 
-| Function    | Arduino | Motor 2 | Servo I/O |
+| Function    | Arduino | 8X8 LED Matrix | 8 LED Bar |
 | ----------- | ------- | ------- | --------- |
-| 5V                 | 5V       | 10      | 4         |
-| GND                | GND      | 8       | 6         |
-| 8X8 LED Matrix     | D3       | 3       | -         |
-| 8 LED Bar          | D6        |         | 3,5       |
-
+| 5V                 | 5V       | 5V       | 5V         |
+| GND                | GND      | GND      | GND         |
+| 8X8 LED Matrix     | D3       | IN       |          |
+| 8 LED Bar          | D6       |          | IN         |
+ 
 ---
 
 
