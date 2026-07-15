@@ -73,7 +73,7 @@ This project was created to provide a reliable and responsive hardware flag syst
 
 
 # Multiple Arduino Setting
-Compile Arduino 1 (Change the Device Name)
+<pCompile Arduino 1 (Change the Device Name)</p>
 Compile Arduino 2 (Change the Device Name)
 Arduino 1: Set Start Position = 1 and LED Count = 8.
 Arduino 2: Set Start Position = 9 and LED Count = 8.
